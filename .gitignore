@@ -1,2 +1,4 @@
-flaskr/__pycache__/
+**/__pycache__/
 *.egg-info/
+.cache/
+.eggs/
